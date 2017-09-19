@@ -414,4 +414,4 @@ var textStrings_ES = {
 };
 
 
-var textStrings = textStrings_EN
+var textStrings = textStrings_ES
